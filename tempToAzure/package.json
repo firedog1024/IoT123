@@ -1,0 +1,16 @@
+{
+  "name": "temp-to-azure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-iot-device": "^1.1.7",
+    "azure-iot-device-mqtt": "^1.1.7",
+    "node-dht-sensor": "0.0.32"
+  }
+}
